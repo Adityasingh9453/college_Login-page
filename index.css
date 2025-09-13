@@ -1,0 +1,70 @@
+
+*{
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.login{
+    text-align: center;
+    padding-bottom: 20px;
+    border: 1px solid #d7dbdd;
+    height: 600px;
+    width: 400px;
+    margin-top: 6%;
+    margin-left: 38% ;
+    margin-right: 15%;
+    background-color: white;
+
+    border-radius: .5em .5em 0 0;
+}
+.layer1{
+    box-sizing: border-box;
+    width: 100%;
+    background-color:#055BB5;
+    padding: 20px;
+    border-radius: .5em .5em 0 0;
+}
+.logo{
+    box-sizing: border-box;
+    height: 50px;
+
+}
+a{
+    text-decoration: none;
+    color: #055BB5;
+    
+}
+h1{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    color: #055BB5;
+    margin-left:10px;
+    margin-right: 10px;
+    font-size: 1em;
+    font-family: 'SophosSansLight', sans-serif;
+}
+input{
+    width: 300px;
+    margin-bottom: 30px;
+    
+    padding: 15px;
+    border-radius:5px ;
+    border: #d7dbdd solid 1px;
+}
+.signin{
+    width: 310px;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid gray;
+    background-color: #44ac33;
+    color: white;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+
+}
+.foot{
+    text-align: center;
+    color: #5C5C5C;
+    font-family: 'SophosSansRegular', sans-serif;
+}
